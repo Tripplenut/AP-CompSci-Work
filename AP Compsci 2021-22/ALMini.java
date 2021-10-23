@@ -10,13 +10,13 @@ public class ALMini
         * If the method uses an Integer or String change as needed
         * The methods should have the type they take next to them
         */
-        ArrayList list = new ArrayList();
-        list.add();
-        list.add();
-        list.add();
-        list.add();
-        list.add();
-        list.add();
+        ArrayList<Integer> list = new ArrayList<Integer>();
+        list.add(5);
+        list.add(4);
+        list.add(3);
+        list.add(2);
+        list.add(1);
+        list.add(0);
         
         //Methods
         //yessir.minToFront(list); //Integer Array List
