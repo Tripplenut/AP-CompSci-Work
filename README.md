@@ -20,6 +20,13 @@ EscapeCharacter-
     The thing was I could only use tabs and not .format, painfully tedious.
     To use it just run the code. Not really a point of changing any values.
 
+LifeDriver(Game of Life)-
+    This assignment is based on John Conway's game of life.
+    If you don't know much about it I would take a quick peak at this https://playgameoflife.com/ and also just looking it up.
+    It wasn't crazy difficult to make as my teacher gave me the driver and told us what each method in Life was supposed to do.
+    To use it just run the code, it will ask you how many generations you want and you input a number and each generation will pop.
+    If you want to change the cells type your own in or use some of the premade ones at the bottom.
+
 MagicSquares-
     This was a cool project that I actually had to use my brain for.
     It involved creating a magic square using serious of if statements and inputing all the information into a matrix.
