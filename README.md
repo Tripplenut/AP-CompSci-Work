@@ -34,6 +34,11 @@ MagicSquares-
     To use it just input an positive odd number of any size. The larger the better imo.
     Look up what a magic square is to get a better understanding of what your looking at also.
 
+MatrixMultiplication-
+    This project was a pain in the ass trying to do the math but actually coding it was simple.
+    I don't really know how to explain how it works so maybe when I upload the files for the projects it will make sense.
+    For now a youtube video will have to do https://youtu.be/2spTnAiQg4M 
+
 Text-
     I think this project was for like html conversion or something, I dont really know.
     To use it just change the inputs in the main method, There's text in there as an example.
