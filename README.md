@@ -2,7 +2,7 @@
  Just a place for all my work this year
 
  ALMini (Array List Mini Problems)-
-    This assignment was litterally just a bunch of Array List problems. If I ever attach documents 
+    This assignment was literally just a bunch of Array List problems. If I ever attach documents 
     of the promts it will describe all of them. Today is not that day tho.
     To use it just uncomment the method you wanna see and input the values into the arraylist needed to make it run.
     You may need to change the Arraylist class type to <Integer> or <String> depending on the method you are using.
@@ -13,6 +13,13 @@ CardGame-
     It was kinda cool and my introduction into Arraylist. Most useful thing in the world.
     To use it just run the code and it should shuffle a deck for you.
     If you want to shuffle more or just print the deck use the methods.
+
+ConnectFour-
+    This assignment was just making a Connect 4 game that you can play between 2 people.
+    I worked on a project similar to this last year when it comes to the methods used to conduct the game but let me say the conditions for winning were pain
+    Nothing but Pain. I decided it was a smart idea to check every possible combination to see if the player won. Not only is this super inefficient
+    but its also a pain to look at and understand. Other than that it was a solid project. Hoping we use GUI's later on cause looking at connect 4 with
+    1s and 2s was not how I want to spend my monday night.
 
 EscapeCharacter-
     To be honest I barely understand this one myself.
