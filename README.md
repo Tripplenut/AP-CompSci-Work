@@ -27,6 +27,12 @@ EscapeCharacter-
     The thing was I could only use tabs and not .format, painfully tedious.
     To use it just run the code. Not really a point of changing any values.
 
+TowerOfHanoi-
+    This assignment is based on the Tower of Hanoi.
+    It solves the tower of hanoi problem thing, you know what im talking about
+    It was annoying to trace but I ended up getting it to work.
+    If you would like to test this out yourself go ahead and open up a tower of hanoi game or click this link. https://www.mathsisfun.com/games/towerofhanoi.html 
+
 LifeDriver(Game of Life)-
     This assignment is based on John Conway's game of life.
     If you don't know much about it I would take a quick peak at this https://playgameoflife.com/ and also just looking it up.
