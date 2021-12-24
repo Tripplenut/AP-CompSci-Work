@@ -25,13 +25,7 @@ EscapeCharacter-
     To be honest I barely understand this one myself.
     I just know I needed to format some information a certain way for what ever reason.
     The thing was I could only use tabs and not .format, painfully tedious.
-    To use it just run the code. Not really a point of changing any values.
-
-TowerOfHanoi-
-    This assignment is based on the Tower of Hanoi.
-    It solves the tower of hanoi problem thing, you know what im talking about
-    It was annoying to trace but I ended up getting it to work.
-    If you would like to test this out yourself go ahead and open up a tower of hanoi game or click this link. https://www.mathsisfun.com/games/towerofhanoi.html 
+    To use it just run the code. Not really a point of changing any values. 
 
 LifeDriver(Game of Life)-
     This assignment is based on John Conway's game of life.
@@ -52,6 +46,18 @@ MatrixMultiplication-
     I don't really know how to explain how it works so maybe when I upload the files for the projects it will make sense.
     For now a youtube video will have to do https://youtu.be/2spTnAiQg4M 
 
+MazeRecursion-
+    This project was about solving a char matrix maze filled with astrixs and white spaces.
+    The start was the center and you needed to figure out all the conditions to find the most optimal solution for each exit.
+    It was a pretty simple project and I commented most of it so it could make sense in the future because I hate recursion.
+    To use it just hit run or change up with matrix if you wanna see it with different solutions and stuff, just keep the center(5,5) blank or change it.
+
 Text-
     I think this project was for like html conversion or something, I dont really know.
     To use it just change the inputs in the main method, There's text in there as an example.
+
+TowerOfHanoi-
+    This assignment is based on the Tower of Hanoi.
+    It solves the tower of hanoi problem thing, you know what im talking about
+    It was annoying to trace but I ended up getting it to work.
+    If you would like to test this out yourself go ahead and open up a tower of hanoi game or click this link. https://www.mathsisfun.com/games/towerofhanoi.html
