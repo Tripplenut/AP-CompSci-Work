@@ -52,6 +52,13 @@ MazeRecursion-
     It was a pretty simple project and I commented most of it so it could make sense in the future because I hate recursion.
     To use it just hit run or change up with matrix if you wanna see it with different solutions and stuff, just keep the center(5,5) blank or change it.
 
+SortsnSearches-
+    This project was one that taught me about searching and sorting (who would've guessed).
+    The sorts were Selection, Insertion, and Merge. Merge was the most painful to do.
+    The searches were Linear and Binary, I was going to do jump but I got lazy and never did it.
+    I may add onto this at a future point with some more sorts like quicksort or heapsort but I doubt it.
+    To use just run and if you want to change things up go into the main method and read some comments.
+
 Text-
     I think this project was for like html conversion or something, I dont really know.
     To use it just change the inputs in the main method, There's text in there as an example.
